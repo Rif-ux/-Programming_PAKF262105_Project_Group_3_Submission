@@ -11,12 +11,3 @@ The program takes two inputs representing a range (`start_num` and `end_num`) an
 2. **Prime Check**: For each number `i > 1`, an inner loop checks if `i` is divisible by any number `j` from `2` up to `i - 1`.
 3. **Flag Verification**: A flag variable (`prime`) tracks divisibility. If `i % j == 0`, `prime` is set to `0`.
 4. **Display Output**: If `prime` remains `1` after checking all possible divisors, the number `i` is printed.
-
-## Files Included
-- `main.cpp` - C++ source code implementation.
-- `README.md` - Assignment documentation and description.
-
-## How to Run
-1. Compile the program using a standard C++ compiler (e.g., `g++ main.cpp -o main`).
-2. Run the compiled executable.
-3. Enter the starting and ending integer values when prompted.
