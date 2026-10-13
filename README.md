@@ -1,4 +1,4 @@
-# Assignment 2: Prime Numbers Finder
+# Assignment 2
 
 ## Overview
 This repository contains a C++ program and algorithm designed to find all prime numbers between two given integer values (inclusive) using nested loops and modular arithmetic.
